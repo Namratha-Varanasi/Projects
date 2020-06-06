@@ -1,0 +1,25 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start" : "nodemod app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namratha-Varanasi/Projects.git"
+  },
+  "author": "Namratha Sri Sai Varanasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namratha-Varanasi/Projects/issues"
+  },
+  "homepage": "https://github.com/Namratha-Varanasi/Projects#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.9.17",
+    "nodemod": "^2.6.1"
+  }
+}
